@@ -1,14 +1,13 @@
 {
-  "name": "PancakeSwap Default List",
+  "name": "OmniDex Default List",
   "timestamp": "2021-05-06T00:00:00Z",
   "version": {
     "major": 3,
     "minor": 0,
     "patch": 0
   },
-  "tags": {},
-  "logoURI": "https://pancakeswap.finance/logo.png",
-  "keywords": ["pancake", "default"],
+  "tags": {},,
+  "keywords": ["omnidex", "default"],
   "tokens": [
     {
       "name": "OmniDex",

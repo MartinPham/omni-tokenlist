@@ -1,0 +1,84 @@
+{
+  "name": "PancakeSwap Default List",
+  "timestamp": "2021-05-06T00:00:00Z",
+  "version": {
+    "major": 3,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://pancakeswap.finance/logo.png",
+  "keywords": ["pancake", "default"],
+  "tokens": [
+    {
+      "name": "OmniDex",
+      "symbol": "CHARM",
+      "address": "0x7fc6A0c5Fa947e41F42dD1DB6b64E071748eA85e",
+      "chainId": 40,
+      "decimals": 18,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmUEJGwPMGBV154hcV8kp65a9TDM6XHJHTz5EFdfW3nDiq?preview=1"
+    },
+    {
+      "chainId": 40,
+      "address": "0xD102cE6A4dB07D247fcc28F366A623Df0938CA9E",
+      "symbol": "WTLOS",
+      "name": "Wrapped TLOS",
+      "logoURI": "https://raw.githubusercontent.com/telosnetwork/images/master/logos_2021/Symbol%202.svg",
+      "decimals": 18,
+      "tags": [
+      ]
+    },{
+      "chainId": 40,
+      "address": "0xf390830df829cf22c53c8840554b98eafc5dcbc2",
+      "symbol": "WBTC",
+      "name": "Wrapped Bitcoin",
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmPNiGquqUyZzCM9aPELQwtnHuLjxytJvrB2TLFeeTAozE?preview=1",
+      "decimals": 8,
+      "tags": [
+      ]
+    },
+    {
+      "chainId": 40,
+      "address": "0xfa9343c3897324496a05fc75abed6bac29f8a40f",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15/logo.png",
+      "decimals": 18,
+      "tags": [
+      ]
+    },      
+    {
+      "chainId": 40,
+      "address": "0x818ec0a7fe18ff94269904fced6ae3dae6d6dc0b",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "decimals": 6,
+      "logoURI": "ipfs://QmXfzKRvjZz3u5JRgC4v5mGVbm9ahrUiB4DgzHBsnWbTMM",
+      "tags": [
+        "stablecoin"
+      ]
+    },
+    {
+      "chainId": 40,
+      "address": "0xefaeee334f0fd1712f9a8cc375f427d9cdd40d73",
+      "symbol": "USDT",
+      "name": "Tether Stable Coin",
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmYjf3FWCEEgfxPb5Aa4sAVG6iM4j9j6NXjTC8wbPxhPd2?preview=1",
+      "decimals": 6,
+      "tags": [
+        "stablecoin"
+      ]
+    },
+    {
+      "chainId": 40,
+      "address": "0xc6BC7A8dfA0f57Fe7746Ac434c01cD39679b372c",
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmacmySKoWcWrxEDyM6Y9ypoF8BiArHkw7oizAmEAFBD9s?preview=1",
+      "symbol": "DOUGE",
+      "name": "DougeCoin",
+      "decimals": 18,
+      "tags": [
+       "telosevm"   
+      ]
+    }
+  ]
+}
